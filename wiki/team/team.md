@@ -35,6 +35,7 @@
     - [Lennert](lennert_defauw.md) : jimber developer
 - FreeFlow / protocol.me
     - [Timur](timurgordon.md) : Software Engineer
+    - [Jonathan](jonathan_ouwerx.md): Software Engineer
 - Websites / Content Management
     - [Ehab](ehab_hassan.md) : UI developer/Graphic Designer
     - [Sasha](sasha_astiadi.md) : Product Scrum / Web & Wiki Content Manager
